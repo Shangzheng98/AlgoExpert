@@ -1,8 +1,6 @@
 package Easy;
 
-import java.util.*;
-
-class Program {
+class Programa{
   public static int[] insertionSort(int[] array) {
     // Write your code here.
     

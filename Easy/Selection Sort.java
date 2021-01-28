@@ -1,6 +1,4 @@
 package Easy;
-
-import java.util.*;
 // divide intoe two sublist
 // one is always sorted.
 // the other one is not sorted.

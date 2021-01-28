@@ -1,7 +1,5 @@
 package Easy;
 
-import java.util.*;
-
 class Program {
   public String runLengthEncoding(String string) {
     // Write your code here.
